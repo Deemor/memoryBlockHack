@@ -3,7 +3,7 @@
 Próba jak najwierniejszego odtworzenia minigry włamania do skrzynek elektrycznych.
 
 ## - - Kliknij screena poniżej, aby to wypróbować! - - 
-[![memoryBlock](https://user-images.githubusercontent.com/90990679/142744587-ddee0c89-05f5-40f1-a20f-8d21288b625d.png)](google.com)
+[![memoryBlock](https://user-images.githubusercontent.com/90990679/142744587-ddee0c89-05f5-40f1-a20f-8d21288b625d.png)](https://deemor.github.io/memoryBlockHack/)
 
 
 
